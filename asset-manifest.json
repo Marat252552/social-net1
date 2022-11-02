@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Marat252552/social-net1.git/static/css/main.45116b50.css",
+    "main.js": "/Marat252552/social-net1.git/static/js/main.b485829b.js",
+    "static/css/203.fe4f134c.chunk.css": "/Marat252552/social-net1.git/static/css/203.fe4f134c.chunk.css",
+    "static/js/203.ccb023ad.chunk.js": "/Marat252552/social-net1.git/static/js/203.ccb023ad.chunk.js",
+    "static/css/477.ef2c767d.chunk.css": "/Marat252552/social-net1.git/static/css/477.ef2c767d.chunk.css",
+    "static/js/477.48dd0e2c.chunk.js": "/Marat252552/social-net1.git/static/js/477.48dd0e2c.chunk.js",
+    "static/media/logo.png": "/Marat252552/social-net1.git/static/media/logo.dc273eeb8dbf0a6196f9.png",
+    "static/media/UserSmallIcon.png": "/Marat252552/social-net1.git/static/media/UserSmallIcon.9dc92b0a1003b149f6c9.png",
+    "static/media/preloader.svg": "/Marat252552/social-net1.git/static/media/preloader.264ba1349d34594b678c59569207c894.svg",
+    "index.html": "/Marat252552/social-net1.git/index.html",
+    "main.45116b50.css.map": "/Marat252552/social-net1.git/static/css/main.45116b50.css.map",
+    "main.b485829b.js.map": "/Marat252552/social-net1.git/static/js/main.b485829b.js.map",
+    "203.fe4f134c.chunk.css.map": "/Marat252552/social-net1.git/static/css/203.fe4f134c.chunk.css.map",
+    "203.ccb023ad.chunk.js.map": "/Marat252552/social-net1.git/static/js/203.ccb023ad.chunk.js.map",
+    "477.ef2c767d.chunk.css.map": "/Marat252552/social-net1.git/static/css/477.ef2c767d.chunk.css.map",
+    "477.48dd0e2c.chunk.js.map": "/Marat252552/social-net1.git/static/js/477.48dd0e2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45116b50.css",
+    "static/js/main.b485829b.js"
+  ]
+}
