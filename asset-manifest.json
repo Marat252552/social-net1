@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/social-net1/static/css/main.45116b50.css",
-    "main.js": "/social-net1/static/js/main.9e3ce335.js",
-    "static/css/203.fe4f134c.chunk.css": "/social-net1/static/css/203.fe4f134c.chunk.css",
-    "static/js/203.ccb023ad.chunk.js": "/social-net1/static/js/203.ccb023ad.chunk.js",
-    "static/css/477.ef2c767d.chunk.css": "/social-net1/static/css/477.ef2c767d.chunk.css",
-    "static/js/477.48dd0e2c.chunk.js": "/social-net1/static/js/477.48dd0e2c.chunk.js",
+    "main.css": "/social-net1/static/css/main.ecc993d9.css",
+    "main.js": "/social-net1/static/js/main.2bc21853.js",
+    "static/css/203.d356db20.chunk.css": "/social-net1/static/css/203.d356db20.chunk.css",
+    "static/js/203.3acdd159.chunk.js": "/social-net1/static/js/203.3acdd159.chunk.js",
+    "static/css/477.be945412.chunk.css": "/social-net1/static/css/477.be945412.chunk.css",
+    "static/js/477.cc86a8fc.chunk.js": "/social-net1/static/js/477.cc86a8fc.chunk.js",
     "static/media/logo.png": "/social-net1/static/media/logo.dc273eeb8dbf0a6196f9.png",
     "static/media/UserSmallIcon.png": "/social-net1/static/media/UserSmallIcon.9dc92b0a1003b149f6c9.png",
     "static/media/preloader.svg": "/social-net1/static/media/preloader.264ba1349d34594b678c59569207c894.svg",
     "index.html": "/social-net1/index.html",
-    "main.45116b50.css.map": "/social-net1/static/css/main.45116b50.css.map",
-    "main.9e3ce335.js.map": "/social-net1/static/js/main.9e3ce335.js.map",
-    "203.fe4f134c.chunk.css.map": "/social-net1/static/css/203.fe4f134c.chunk.css.map",
-    "203.ccb023ad.chunk.js.map": "/social-net1/static/js/203.ccb023ad.chunk.js.map",
-    "477.ef2c767d.chunk.css.map": "/social-net1/static/css/477.ef2c767d.chunk.css.map",
-    "477.48dd0e2c.chunk.js.map": "/social-net1/static/js/477.48dd0e2c.chunk.js.map"
+    "main.ecc993d9.css.map": "/social-net1/static/css/main.ecc993d9.css.map",
+    "main.2bc21853.js.map": "/social-net1/static/js/main.2bc21853.js.map",
+    "203.d356db20.chunk.css.map": "/social-net1/static/css/203.d356db20.chunk.css.map",
+    "203.3acdd159.chunk.js.map": "/social-net1/static/js/203.3acdd159.chunk.js.map",
+    "477.be945412.chunk.css.map": "/social-net1/static/css/477.be945412.chunk.css.map",
+    "477.cc86a8fc.chunk.js.map": "/social-net1/static/js/477.cc86a8fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45116b50.css",
-    "static/js/main.9e3ce335.js"
+    "static/css/main.ecc993d9.css",
+    "static/js/main.2bc21853.js"
   ]
 }
